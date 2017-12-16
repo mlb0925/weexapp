@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\lan\\lanrenchengxu\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\lan\\lanrenchengxu\\platforms\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\myapp\\lanrenchengxuapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\myapp\\lanrenchengxuapp\\platforms\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\lan\\lanrenchengxu\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_scan.xml",
+        "source": "E:\\lan\\lanrenchengxu\\platforms\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
+    },
+    {
+        "merged": "E:\\myapp\\app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\myapp\\app\\platforms\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\myapp\\app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_scan.xml",
+        "source": "E:\\myapp\\app\\platforms\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
+    },
+    {
+        "merged": "E:\\myapp\\lanrenchengxuapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_scan.xml",
+        "source": "E:\\myapp\\lanrenchengxuapp\\platforms\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
+    }
+]

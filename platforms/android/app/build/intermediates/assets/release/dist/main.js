@@ -1,0 +1,3 @@
+// { "framework": "Vue"} 
+
+!function(n){function r(o){if(t[o])return t[o].exports;var e=t[o]={i:o,l:!1,exports:{}};return n[o].call(e.exports,e,e.exports,r),e.l=!0,e.exports}var t={};r.m=n,r.c=t,r.i=function(n){return n},r.d=function(n,t,o){r.o(n,t)||Object.defineProperty(n,t,{configurable:!1,enumerable:!0,get:o})},r.n=function(n){var t=n&&n.__esModule?function(){return n.default}:function(){return n};return r.d(t,"a",t),t},r.o=function(n,r){return Object.prototype.hasOwnProperty.call(n,r)},r.p="",r(r.s=94)}({94:function(n,r,t){!function(){throw new Error('Cannot find module "run"')}(),function(){throw new Error('Cannot find module "andorid"')}()}});

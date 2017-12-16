@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\myapp\\lanrenchengxuapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\myapp\\lanrenchengxuapp\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\myapp\\app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\myapp\\app\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\lan\\lanrenchengxu\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\lan\\lanrenchengxu\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

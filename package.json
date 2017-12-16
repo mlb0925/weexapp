@@ -1,0 +1,53 @@
+{
+    "name": "weex",
+    "version": "1.0.0",
+    "description": "a weex project",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack",
+        "build_plugin": "webpack --config ./tools/webpack.config.plugin.js --color",
+        "dev": "webpack --config webpack.config.js --watch",
+        "serve": "webpack-dev-server --config webpack.dev.js --progress --watch --open",
+        "start": "webpack  && webpack-dev-server --config webpack.dev.js --progress --watch --open",
+        "create": "weexpack run android"
+    },
+    "keywords": [
+        "weex"
+    ],
+    "author": "懒人程序",
+    "license": "MIT",
+    "dependencies": {
+        "jwt-simple": "^0.5.1",
+        "vue": "^2.4.2",
+        "vue-resource": "^1.3.4",
+        "vue-router": "^2.7.0",
+        "vuex": "^2.1.1",
+        "vuex-router-sync": "^4.3.0",
+        "weex-html5": "^0.4.1",
+        "weex-ui": "^0.3.1",
+        "weex-vue-render": "^0.12.14"
+    },
+    "devDependencies": {
+        "babel-core": "^6.21.0",
+        "babel-loader": "^6.2.4",
+        "babel-plugin-add-module-exports": "^0.2.1",
+        "babel-plugin-component": "^0.10.1",
+        "babel-plugin-transform-runtime": "^6.9.0",
+        "babel-preset-es2015": "^6.9.0",
+        "babel-preset-stage-0": "^6.24.1",
+        "babel-runtime": "^6.9.2",
+        "css-loader": "^0.26.1",
+        "history": "^4.7.2",
+        "quick-local-ip": "^1.0.7",
+        "vue-loader": "^13.5.0",
+        "vue-template-compiler": "^2.4.2",
+        "webpack": "^2.7.0",
+        "webpack-dev-server": "^2.4.2",
+        "weex-builder": "^0.2.7",
+        "weex-loader": "^0.4.5",
+        "weex-router": "0.0.1"
+    },
+    "optionalDependencies": {
+        "ios-deploy": "^1.9.0"
+    }
+}

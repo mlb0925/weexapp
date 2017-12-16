@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\myapp\\lanrenchengxuapp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\zxing_beep.ogg",
+        "source": "E:\\myapp\\lanrenchengxuapp\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.4.0\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "E:\\myapp\\app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\zxing_beep.ogg",
+        "source": "E:\\myapp\\app\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.4.0\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "E:\\lan\\lanrenchengxu\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\zxing_beep.ogg",
+        "source": "E:\\lan\\lanrenchengxu\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.4.0\\res\\raw\\zxing_beep.ogg"
+    }
+]

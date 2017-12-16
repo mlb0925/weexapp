@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_fa334c7433234884f5cd48ddfb071cd79982f66b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_ac919f060a77bb7fa281c053751cf05e4f8af002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\jacocoagent_451123faab453b72cb44053e14eb635ed2ac8381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.4.0_99d119493ec9c2d16e6736c2129868fd0dca8572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\android\appframework\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c8c7f2148be85c4e35f1ff0080ec62cbefaafdac">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\android-appframework-unspecified_8891e86eca4c259c45c390fd48d6288cbce87b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.10.0_bc6ca217b2de0e2a70e90a42edf58aec3597467f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.10.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.10.0_f3d95698363fef1ab3eaaafa8062e4c32ead25fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_bedf8e3913247599d8865cf8c67b2cefc29240c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_23c8fe8c7e6119af1e92ff0f0953d9d81870896d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mlb\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_a5738eaa2d26b34cc4b4a5795bd924ca5d538e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mlb\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\okio-1.3.0_27d4cd5ea1133019fdc9611990fd9d66a6c44020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_f009fd24b631afb474987591d8df5c8237e4426f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_5cd5a723370a1bd9c1eac6ba89e38b856b6cc672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_c81eac34a6b61608b3adafc80fde8c63170f3404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.taobao.android\weex_inspector\0.10.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.taobao.android-weex_inspector-0.10.0.5_fe6d7b0879b0d41614a1390d873ddd580a083e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\android\weexplugin\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4380920339da6432983f39c738858bc0aef8cf0e">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\android-weexplugin-unspecified_219b9984fb4d313d643546b0ab3aac962bf18ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\jacocoagent_933e37414b9cc47cf4e03844fcbb020dfa8e67c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.10.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.10.0_7fd3190d001e26d37c1cc1a40c51c90b079b77eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mlb\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0_7a9afa247330e7544f1aeac4f04decaed0c97c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.10.0_de13968642b1dd676e258e802b448d5b4020bef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_8680c7231cd6dbae8607eb2a75e3d52f82effbc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.taobao.android\weex_sdk\0.16.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cfcc5fc657d64c980b45db00cd75695d1ce2256">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.taobao.android-weex_sdk-0.16.0_17722638aad7ee89b89b43d09667bb529cef79c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.10.0_3d7f3c3a5c6ddd26a2726cb4662053b53a22b119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\android\weexplugin\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4380920339da6432983f39c738858bc0aef8cf0e">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\android-weexplugin-unspecified_b8e5342abd71fef7e8e2ae83f8a164afa77c30c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.10.0_339829462c64fdaacab2a8186d70eabdf69dd6c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mlb\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.3.0\7896d229b6aa7884552ab9c23de54c7eb0de8203\okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.3.0_dc2b00a387cd8d0ce6de58bcdbbe4d2e1174fa15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.10.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.10.0_c8a9ad207c0a78b30509ffbc2b7f65654f57d71e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.10.0_01645b4019b9b245a98e9665fcb5fdca414ab55c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.taobao.android\weex_sdk\0.16.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cfcc5fc657d64c980b45db00cd75695d1ce2256">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.taobao.android-weex_sdk-0.16.0_35638b3b488144aad0451f660519e97d197c4cb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mlb\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.46.android\108717c93f7aec31fb86db57cb4ad1e26034c638\fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\fastjson-1.1.46.android_637c43c83da13ba90a1fbb9f4329059b7b0aaa3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.10.0_c8ff4f1abb277bc7e2e8e9b9b3f77db0109296f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.10.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.10.0_d97adcb518cbd9febf3c387b1c63b9c549e5193b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mlb\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\core-3.2.1_afcd27eb2ebd5aad8c242301379427685af56a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mlb\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_db0940747729a12553f6f9e7bc656662cb80955d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mlb\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_271a16ed267ed4b5e45ffcbb3707dc682e28066e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.taobao.android\weex_inspector\0.10.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.taobao.android-weex_inspector-0.10.0.5_fd684719adc1603489d4048a9a8ad603359e0cd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.4.0_eeb1e8a492e4e86501deedbca2c594c09cbe49f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\myapp\lanrenchengxuapp\platforms\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_23805886d94673fdf0ee10238f8a5976c2fd914f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\android\appframework\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c8c7f2148be85c4e35f1ff0080ec62cbefaafdac">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\android-appframework-unspecified_7d788265e45867da3715b78447b7524922a6c916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_77ac4915541328b5be03d3853348697574749d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mlb\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_be6cd4cd0965c495eee648061bbc1ed5a5998d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myapp\app\platforms\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\myapp\app\platforms\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_66caa8c64dc682e17f829212b7fc5720ffb964ea.jar" />
+    </item>
+
+</items>
