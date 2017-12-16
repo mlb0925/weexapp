@@ -3,14 +3,12 @@
         <wxc-minibar title="懒人程序"   background-color="#F2F3F4"
                      text-color="#666"
                      @wxcMinibarLeftButtonClicked="minibarLeftButtonClick"
-                     @wxcMinibarRightButtonClicked="minibarRightButtonClick"></wxc-minibar>
-		<div v-if="network">			 
-        <wxc-indexlist :normal-list="list.normalList"
+                     @wxcMinibarRightButtonClicked="minibarRightButtonClick"></wxc-minibar>		 
+        <wxc-indexlist v-if="network" :normal-list="list.normalList"
                        :hot-list-config="hotListConfig"
                        :city-location-config="cityLocationConfig"
                        @wxcIndexlistItemClicked="wxcIndexlistItemClicked"
                        :show-index="showIndex"></wxc-indexlist>
-		</div>
         <div v-if="network ==0 "> 
           <div class="wxc-result">
             <image class="result-image" :src="noNetwork"></image>
@@ -192,7 +190,7 @@
                 //   'message': urls,
                 //  'duration': 1
                 //})
-                this.$router.push({ path: '/demo',query:{url: urls,title:e.item.name}});
+                this.$router.push({ path: '/demo');
 
             }
         }
