@@ -192,7 +192,7 @@
                 //   'message': urls,
                 //  'duration': 1
                 //})
-                this.$router.push({ path: '/webview',query:{url: urls,title:e.item.name}});
+                this.$router.push({ path: '/demo',query:{url: urls,title:e.item.name}});
 
             }
         }
