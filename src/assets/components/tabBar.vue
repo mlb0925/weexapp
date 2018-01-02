@@ -9,23 +9,23 @@
 
         <div class="bar-item" @click="tabTo('home')">
             <text class="bar-ic iconfont" :style="testCS">&#xe65c;</text>
-            <text class="bar-txt">首页</text>
+            <text class="bar-txt" :style="testCS">首页</text>
         </div>
         <div class="bar-item" @click="tabTo('top')">
-            <text class="bar-ic iconfont">&#xe608;</text>
-            <text class="bar-txt">推荐</text>
+            <text class="bar-ic iconfont" :style="testCB">&#xe608;</text>
+            <text class="bar-txt" :style="testCB">推荐</text>
         </div>
         <div class="bar-item act" @click="tabTo('demo')">
-            <text class="bar-ic iconfont">&#xe7f9;</text>
-            <text class="bar-txt">分类</text>
+            <text class="bar-ic iconfont" :style="testDemo">&#xe7f9;</text>
+            <text class="bar-txt" :style="testDemo">分类</text>
         </div>
         <div class="bar-item" @click="tabTo('all')">
-            <text class="bar-ic iconfont">&#xe625;</text>
-            <text class="bar-txt">PHP教程</text>
+            <text class="bar-ic iconfont" :style="testAll">&#xe625;</text>
+            <text class="bar-txt" :style="testAll">PHP教程</text>
         </div>
-        <div class="bar-item" @click="tabTo('my')">
-            <text class="bar-ic iconfont">&#xe606;</text>
-            <text class="bar-txt">关于</text>
+        <div class="bar-item" @click="tabTo('test')">
+            <text class="bar-ic iconfont" :style="testTest">&#xe606;</text>
+            <text class="bar-txt" :style="testTest">关于</text>
         </div>
     </div>
 </template>
@@ -93,7 +93,20 @@
         computed:{
             testCS:function () {
                 return this.pIndexKey == 'home'?'color:#b4282d;':''
+            },
+             testCB:function () {
+                return this.pIndexKey == 'top'?'color:#b4282d;':''
+            },
+             testDemo:function () {
+                return this.pIndexKey == 'demo'?'color:#b4282d;':''
+            },
+            testAll:function () {
+                return this.pIndexKey == 'all'?'color:#b4282d;':''
+            },
+             testTest:function () {
+                return this.pIndexKey == 'test'?'color:#b4282d;':''
             }
+            
         },
         data () {
             return {
