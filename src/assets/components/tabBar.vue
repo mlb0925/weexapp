@@ -7,9 +7,11 @@
             <!--</div>-->
         <!--</div>-->
 
-        <div class="bar-item" @click="tabTo('home')">
-            <text class="bar-ic iconfont" :style="testCS">&#xe65c;</text>
-            <text class="bar-txt" :style="testCS">首页</text>
+        <div class="bar-item" @click="tabTo('home')" id="home1">
+            <text class="bar-ic iconfont home1"  :style="testCS" v-if="pIndexKey=='home'" style="color: rgb(180, 40, 45)">&#xe65c;</text>
+            <text class="bar-ic iconfont home1"  :style="testCS" v-else >&#xe65c;</text>
+            <text class="bar-txt home1" :style="testCS" v-if="pIndexKey=='home'" style="color: rgb(180, 40, 45)">首页</text>
+            <text class="bar-txt home1" :style="testCS" v-else>首页</text>
         </div>
         <div class="bar-item" @click="tabTo('top')">
             <text class="bar-ic iconfont" :style="testCB">&#xe608;</text>
@@ -32,6 +34,12 @@
 <style scoped>
     .iconfont {
         font-family:iconfont;
+    }
+    .home1{
+      
+    }
+    .homeb{
+        color: rgb(102, 102, 102);
     }
     .wrapper{
         position: fixed;
@@ -68,31 +76,14 @@
 
     var modal = weex.requireModule('modal');
     export default {
-//        props: {
-//            indexKey: {
-//                type: String,
-//                default: 'home'
-//            },
-//            reClick: {
-//                type: Boolean,
-//                default: false
-//            },
-//            items: {
-//                type: Array,
-//                default: function(){
-//                    return [
-//                        {
-//                            icon:'&#xe660;',
-//                            name:"首页",
-//                            key:'home'
-//                        }
-//                    ]
-//                }
-//            }
-//        },
+       data () {
+            return {
+                pIndexKey:'home'
+            }
+        },
         computed:{
             testCS:function () {
-                return this.pIndexKey == 'home'?'color:#b4282d;':''
+                return this.pIndexKey == 'home'?'color:#b4282d;':''            
             },
              testCB:function () {
                 return this.pIndexKey == 'top'?'color:#b4282d;':''
@@ -108,12 +99,16 @@
             }
             
         },
-        data () {
-            return {
-                pIndexKey:'home'
+         watch:{
+            pIndexKey:function(val){
+              console.log(val); 
             }
         },
         mounted(){
+           
+        },
+        created(){
+          
         },
         methods: {
             tabTo(_key){
